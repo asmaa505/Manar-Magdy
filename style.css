@@ -159,7 +159,9 @@ h1::before{
     }
 }
 
-
+.personal{
+    border: 2px solid gold;
+}
 .bar{
     transition: 0.5s;
     transform: translateX(-200%); 
